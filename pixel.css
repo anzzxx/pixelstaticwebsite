@@ -1,0 +1,891 @@
+.header{
+    
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    position: fixed;
+    z-index: 1;
+    margin-top: -40px;
+    margin-left: -8px;
+    
+    
+
+}
+.left-side{
+    width: 50%;
+    background-color:white;
+    height: 60px;
+    float: left;
+    padding: -9%;
+    margin: 0%;
+}
+.right-side{
+    width: 50%;
+    background-color:white;
+    height: 60px;
+    float: left;
+
+}
+.google-logo{
+    width: 27px;
+    height: 27px;
+    padding-left: 19px;
+    padding-top: 17px;
+}
+.left-side ul{
+    position: absolute;
+    padding-left: 15px;
+    display: inline-flex;
+    color:black;
+    list-style: none;
+    word-spacing: 10px;
+    
+}
+.left-side ul li{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+ width:85px;
+ font-size:12px;
+  padding:7px; 
+  text-decoration:none;  
+ 
+   
+}
+
+.icon-1{
+    
+    color:black;
+    font-size: 20px;
+    margin-top: 19px;
+    margin-left: 439px;
+   
+   
+}
+.icon-2{
+    margin-top: -23px;
+    margin-left: 487px;
+    font-size: 20px;
+
+}
+.icon-3{
+    margin-top:-23px;
+    margin-left: 532px;
+    font-size: 20px;
+
+}
+.icon-4{
+    font-size: 20px;
+    margin-top: -23px;
+    margin-left:579px ;
+
+}
+.inner-class1{
+width: 100%;
+height: 400px;
+
+}
+.h-1{
+    padding-top:198px;
+    padding-left: 347PX;
+    font-size: 60px;
+    
+    font-family: Google Sans Display, Roboto, Arial, sans-serif;
+}
+
+
+
+.slider-wrapper  .image-list{
+    display:inline-flex;
+   gap: 60px;
+    
+
+}
+.slider-wrapper .image-list  .pixel-1{
+    width: 120px;
+    height: 120px;
+    margin-left: 0px;
+    padding-top: 65px;
+   
+    
+}
+.slider-wrapper{
+    overflow-x: auto;
+    white-space: nowrap;
+    
+    
+}
+.page-2{
+    
+    
+    background-image: url(https://lh3.googleusercontent.com/EtnrxdVoGem7KS1XSHO2Zi_VFCSWXJdAMr09yo3C3P1_Okux3yfBifORK_TO53Rq2tBsygeuy4C071IK3CKmnWp7QYwTeXOEHQ);
+    background-size:cover;
+   margin-top:140px;
+   margin-left: 15px;
+   border-radius: 50px;
+    width: 1200px;
+    height: 600px;
+    position:relative;
+    align-items: center;}
+.text-1{
+   
+    padding: 52px;
+    padding: 58px;
+    margin-block-start: 170px;
+    margin-block-end: -35px;
+    margin-inline-start: -1350px;
+    margin-inline-end: -178px;
+    display: block;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.25px;
+    line-height: 20px;
+   
+    color: #3c4043;
+}
+.text-2{
+    margin-inline-start: -177px;
+    margin-block-start: 230px;
+    font-size: 14px;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+}
+.text-3{
+    margin-inline-start: 430px;
+    margin-block-start: 230px;
+    font-size: 14px;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+}
+.text-4{
+    margin-inline-start: 66px;
+    margin-block-start: 230px;
+    font-size: 14px;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+}
+.text-5{
+    margin-inline-start: -466px;
+    margin-block-start: 230px;
+    font-size: 14px;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+}
+.text-6{
+
+    margin-inline-start: 401px;
+    margin-block-start: 230px;
+    font-size: 14px;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+}
+.text-7{
+    margin-inline-start: 34px;
+    margin-block-start: 230px;
+    font-size: 14px;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+}
+.text-8{
+    margin-block-start: 230px;
+    margin-inline-start: 50px;
+    font-size: 14px;
+    font-family: "Google Sans","Roboto","Arial",sans-serif;
+}
+.h-2{
+    font-optical-sizing: none;
+    font-family: Google Sans Display, Roboto, Arial, sans-serif;
+    font-size: 48px;
+    line-height: 56px;
+    text-align:right ;
+    margin: -9px;
+    padding-right:161px ;
+}
+.newtag-1{
+    text-align: center;
+     font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    padding-top: 195px;
+    padding-left: 295px;
+   
+}
+
+.h-3{
+    text-align: right;
+    font-family: Google Sans Display, Roboto, Arial, sans-serif; 
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 24px;
+    margin-top: 30px;
+    padding-right: 166px;
+}
+.button-1{
+    margin-inline-start: 766px;
+    font-size: 16px;
+    height: 43px;
+    width: 126px;
+    text-align: center;
+    letter-spacing: 1px;
+    margin-block-start: 11px;
+    margin-inline-start: 751px;
+}
+
+.button-1:hover{
+    background-color: black;
+    color: azure;
+   
+}
+
+
+.button-2{
+    font-size: 17px;
+    letter-spacing: 1px;
+    margin-inline-start: 17px;
+    border: none;
+}
+.button-2:hover{
+    text-decoration: underline;
+}
+.button-3:hover{
+    background-color: black;
+    color: azure;
+}
+.page-3{
+    background-image:url(https://lh3.googleusercontent.com/3SA89ACC-1eokyShhOY04ZTOg0Z3cLzZTdYLQgB52v7RDMeM1q5LOT7WzmNdHfdwcvf4LxZm3n7w-TfCbqQtsIL9Q3xCowRv2Q=rw-e365-w1200);
+
+    background-size:cover;
+    margin-top:30px;
+    margin-left: 15px;
+    border-radius: 50px;
+     width: 1200px;
+     height: 650px;
+     position:relative;
+     align-items: center;
+    }
+.page-4{
+    width: 100%;
+    height: 600px;
+}
+.newtag-2{
+    font-optical-sizing: none;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    padding-top: 172px;
+    padding-left: 103px;
+}
+.h-4{
+    font-optical-sizing: none;
+    font-family: Google Sans Display, Roboto, Arial, sans-serif;
+    font-size: 48px;
+    line-height: 56px;
+    line-height: 56px;
+    padding-left: 103px;
+}
+
+
+.h-5{
+    font-optical-sizing: auto;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 24px;
+    margin-top: -13px;
+    padding-left: 103px;
+
+}
+.button-3{
+    font-optical-sizing: auto;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 24px;
+    width: 123px;
+    height: 42px;
+    margin-inline-start: 103px;
+    margin-block-start: 10px;
+}
+
+.button-4{
+    margin-inline-start: 12px;
+    border: none;
+    background: none;
+ 
+}
+.image1-page4{
+ border-radius: 3dvb;
+    margin-top: 0px;
+    margin-left: 0PX;
+    width:320px;
+    height: 256px;
+}
+.image2-page4{
+    margin-left: 0PX;
+    border-radius: 30Px;
+    margin-top: 0px;
+    width:320px;
+    height: 256px;
+    align-items: center;
+}
+.colum-1{
+    float: right;
+    border-radius: 30px;
+    margin-top: -1px;
+    margin-right:290px ;
+    width:320px; 
+    height: 450px;
+    background-color:rgba(128, 128, 128, 0.968);
+    align-items: center;
+
+}
+.colum-2{
+    border-radius: 30px;
+    margin-top: 125px;
+    margin-left: 290px;
+    width: 320px;
+    height: 450px;
+    background-color:rgba(128, 128, 128, 0.968);
+    align-items: center;
+}
+.colum-1-h1{
+    font-family: Google Sans Display, Roboto, Arial, sans-serif;
+    font-size: 20px;
+    padding-left: 40px;
+
+}
+.colum-2-h1{
+    font-family: Google Sans Display, Roboto, Arial, sans-serif;
+    font-size: 20px;
+    padding-left: 40px;
+}
+.button-5{
+    background-color: rgb(8, 142, 232);
+    color: aliceblue;
+    width: 123px;
+    height: 42px;
+    border: 0;
+margin-block-start: 47px;
+margin-inline-start: 40px;
+   
+
+}
+.button-5:hover{
+    background-color: rgb(3, 3, 84);
+}
+.page-5-h1{
+
+    font-optical-sizing: none;
+    font-family: "Google Sans Display", Roboto, Arial, sans-serif;
+    font-size: 40px;
+    letter-spacing: -0.5px;
+    line-height: 48px;
+    text-align: center;
+    margin-top: 10px;
+}
+.page-5-p1{
+
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 24px;
+    text-align: center;
+    margin-top: -10px;
+    
+}
+.page-5{
+    width: 100%;
+    height: 700px;
+}
+.colum-3{
+    background-color: #F5F1EC;
+    width: 320px;
+    height: 370px;
+    margin-inline-start: 116px;
+    margin-block-start: 62px;
+    border-radius: 35px;
+}
+.colum-4{
+    background-color: #F5F1EC;
+    width: 320px;
+    height: 370px;
+    margin-inline-start: 460px;
+    margin-block-start: -370px;
+    border-radius: 35px;
+    float: left;
+   
+}
+.colum-5{
+    background-color: #F5F1EC;
+    width: 320px;
+    height: 370px;
+    margin-block-start: -368px;
+    margin-inline-start: 800px;
+    float: left;
+    border-radius: 35px;
+}
+.page-6{
+    width: 100%;
+    height: 700px;
+}
+.img1-page-6{
+    width: 389px;
+    height: 570px;
+    float: left;
+    margin-inline-start: 119px;
+    margin-block-start: -136px;
+    border-radius: 35px;
+}
+.page6-colum1{
+    align-items: flex-end;
+    width: 595px;
+    height:570px;
+    background-color:#E3EEFC;
+    margin-inline-start: 534px;
+    margin-block-start: -854px;
+    border-radius: 35px;
+}
+.colum3-img-3{
+    padding-top: 37px;
+    padding-left: 37px;
+}
+.colum4-img-2{
+    padding-top: 37px;
+    padding-left: 37px; 
+}
+.colum5-img-1{
+    padding-top: 37px;
+    padding-left: 37px;
+     
+}
+.colum3-h1{
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0px;
+    --superscript-margin-left: 2px;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: var(--bento-text-align);
+    padding-left: 37px;
+}
+.colum4-h1{
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0px;
+    --superscript-margin-left: 2px;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: var(--bento-text-align);
+    padding-left: 37px;
+}
+.colum5-h1{
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0px;
+    --superscript-margin-left: 2px;
+    font-size: 24px;
+    line-height: 30px;
+    padding-left: 37px;
+    
+    
+}
+.colum3-p1{
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 24px;
+   padding-left: 37px;
+}
+.page6-h1{
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-weight: 700;
+    --superscript-margin-left: 2px;
+    font-size: 32px;
+    letter-spacing: -0.5px;
+    line-height: 40px;
+    padding-top: 190px;
+    padding-left: 40px;
+}
+.page6-p1{
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 24px;
+    padding-left: 40px;
+    margin-top:-6px ;
+    color: #3c4043;
+}
+.button-6{
+    margin-left: 40px;
+    margin-top: 10px;
+    width: 145px;
+    height: 40px;
+    background: transparent;
+    border-radius: 5px;
+
+}
+.button-6:hover{
+    background-color: #3c4043;
+    color: white;
+    font-weight: bold;
+}
+.page7-h1{
+    font-family: "Google Sans Display", Roboto, Arial, sans-serif;
+    font-size: 40px;
+    letter-spacing: -0.5px;
+    line-height: 48px;
+    margin-top: 157px;
+    margin-left: 360px;
+    color: #3c4043;
+}
+.button-7{
+    width: 130px;
+    height: 38px;
+    margin-top: 10px;
+    margin-left: 530px;
+    background-color: rgb(8, 142, 232);
+    border: none;
+    color: white;
+    font-size: 16px;
+
+}
+.button-7:hover{
+    background-color: rgb(3, 3, 84);
+}
+.page7-img1{
+    width: 320px;
+    height: 252px;
+    padding-top: 32px;
+
+}
+.page7-img2{
+    width: 320px;
+    height: 252px;
+    padding-top: 32px;
+
+}
+.page7-img3{
+    width: 320px;
+    height: 252px;
+    padding-top: 32px;
+
+}
+.page7colum-1{
+    width: 320px;
+    height: 320px;
+    background-color: whitesmoke;
+    float: left;
+    margin-block-start: 45px;
+    margin-inline-start: 115px;
+    border-radius: 30px;
+
+}
+.page7colum-2{
+    width: 320px;
+    height: 320px;
+    background-color:whitesmoke;
+    float: left;
+    margin-block-start: 45px;
+    margin-inline-start: 26px;
+    border-radius: 30px;
+
+}
+.page7colum-3{
+    width: 320px;
+    height: 320px;
+    background-color:whitesmoke;
+    float: left;
+    margin-block-start: 45px;
+    margin-inline-start: 24px;
+    border-radius: 30px;
+}
+.dot{
+   height: 10px;
+   width: 10px;
+   background-color: rgb(11, 81, 141);
+   border-radius: 50%;
+   display: inline-block;
+}
+.tittle-1{
+    width: 300px;
+    font-size: 50px;
+    border: none;
+    margin-top: 300px;
+}
+.tittle-2{
+    font-size: 10px;
+}
+.page8-h1{
+    margin-top: 570px;
+    margin-left: 114px;
+}
+.line-1{
+    width: 900px;
+    padding-left: 114px;
+    margin-top: -5px;
+}
+.page9-img1{
+    width: 68px;
+    height: 30px;
+  padding-left: 0px;
+  padding-top: 10px;
+   float: left;
+
+}
+.page9-img2{
+    width: 68px;
+    height: 30px;
+    padding-left: 280px;
+    padding-top: 10px;
+   float: left;
+}
+.page9-img3{
+    width: 68px;
+    height: 30px;
+    padding-left: 274px;
+    padding-top: 10px;
+    float: left;
+
+}
+.page-9{
+    width: 100%;
+    height: 600px;
+}
+.page9-colum1{
+    width: 90%;
+    height: 168px;
+    margin-left: 114px;
+    margin-top: -5px;
+}
+.page9-main{
+    font-optical-sizing: none;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+
+}
+.page9-h1{
+    margin-top: 550px;
+    margin-left: 104px;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0px;
+    --superscript-margin-left: 2px;
+}
+.page9-p1{
+    font-optical-sizing: none;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    margin-left: -758px;
+    padding-top: 35px;
+    float: left;
+
+
+}
+.page9-p2{
+    font-optical-sizing: none;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    float: left;
+    margin-left: -756px;
+    padding-top: 104px;
+
+}
+.page9-p3{
+    font-optical-sizing: none;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    float: left;
+    margin-left: -408px;
+    margin-top: 52px;
+
+}
+.page9-p4{
+    font-optical-sizing: none;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    float: left;
+    margin-top: 120px;
+    margin-left: -411px;
+
+}
+.page9-p5{
+    font-optical-sizing: none;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    float: left;
+    margin-top: 63px;
+    margin-left: -60px;
+
+}
+.page9-p6{
+    font-optical-sizing: none;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    float: left;
+    margin-left: -89px;
+    margin-top: 119px;
+
+}
+.page9-h2{
+    margin-top: 550px;
+    margin-left: 104px;
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0px;
+    margin-top: 45px;
+    font-size: 25px;
+}
+.line-2{
+    width: 900px;
+    padding-left: 114px;
+    margin-top: -5px;
+
+}
+.page9-img4{
+    width: 48px;
+    height: 48px;
+    float: left;
+    margin-left: 114px;
+    margin-top: 18px;
+
+}
+.page9-img5{
+    width: 48px;
+    height: 48px;
+    float: left;
+    margin-left: 299px;
+    margin-top: 17px;
+
+}
+.page9-img6{
+    width: 48px;
+    height: 48px;
+    margin-block-start: 16px;
+    margin-top: 14px;
+    margin-left: 295px
+
+}
+.page9-p7{
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    float: left;
+    margin-left: 114px;
+    margin-top: 14px;
+}
+.page9-p8{
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    float: left;
+    margin-top: 14px;
+    margin-left: 50px;
+
+}
+.page9-p9{
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    float: left;
+    margin-left: 154px;
+    margin-top: 14px;
+
+}
+.page10-h1{
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-weight: 700;
+    letter-spacing: 0px;
+    font-size: 25px;
+    margin-top: -72px;
+    margin-left: 114px;
+
+}
+.line-3{
+    width: 900px;
+    padding-left: 114px;
+    padding-left: 114px;
+    margin-top: 8px;
+}
+.page10-img1{
+width: 48px;
+height: 48px;
+float: left;
+  margin-left: 114px;
+    margin-top: 14px;
+
+}
+.page10-img2{
+    width: 48px;
+   height: 48px;
+   float: left;
+   margin-top: 14px;
+    margin-left: 298px;
+
+}
+.page10-img3{
+    width: 48px;
+  height: 48px;
+  float: left; 
+  margin-top: 14px;
+  margin-left: 295px;
+}
+.page10-p1{
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    float: left;
+    margin-left: -749px;
+    margin-top: 79px;
+}
+.page10-p2{
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    float: left;
+    margin-left: -388px;
+    margin-top: 82px;
+}
+.page10-p3{
+    font-family: "Google Sans", Roboto, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    float: left;
+    margin-left: -41px;
+    margin-top: 77px;
+}
+
